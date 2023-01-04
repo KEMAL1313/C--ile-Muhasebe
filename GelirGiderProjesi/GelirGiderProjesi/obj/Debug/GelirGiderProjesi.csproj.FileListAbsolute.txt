@@ -1,0 +1,17 @@
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\bin\Debug\GelirGiderProjesi.exe.config
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\bin\Debug\GelirGiderProjesi.exe
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\bin\Debug\GelirGiderProjesi.pdb
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.csproj.AssemblyReference.cache
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form1.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Properties.Resources.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.csproj.GenerateResource.cache
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.csproj.CoreCompileInputs.cache
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.exe
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.pdb
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form2.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form4.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form3.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form5.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form6.resources
+C:\Users\kemal\source\repos\GelirGiderProjesi\GelirGiderProjesi\obj\Debug\GelirGiderProjesi.Form7.resources
